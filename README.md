@@ -5,6 +5,4 @@ The training data for this project can be found [here](https://drive.google.com/
 
 To produce an output, run `classifying.py`. This program processes a dataset stored in `SynthText_test.h5`, and produces an output file `results.csv` containing information about the predicted font of every character appearing in it.
 
-To visualize the model's performance on the test partition of the dataset (produced by `buildup.py`), run experimenting.py.
-
 Either way, a full detailed description about what each program exactly does can be found in the comments at the top of each python file. Feel free to read my submitted project report, to thoroughly understand the algorithm and the model I designed.
