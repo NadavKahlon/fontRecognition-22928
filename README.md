@@ -7,4 +7,4 @@ To produce an output, run `classifying.py`. This program processes a dataset sto
 
 To visualize the model's performance on the test partition of the dataset (produced by `buildup.py`), run experimenting.py.
 
-Either way, a full detailed description about what each program exactly does can be found in the comments at the top of each file. Feel free to read my submitted project report, to thoroughly understand the algorithm and model I designed.
+Either way, a full detailed description about what each program exactly does can be found in the comments at the top of each python file. Feel free to read my submitted project report, to thoroughly understand the algorithm and model I designed.
