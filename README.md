@@ -5,7 +5,7 @@ The training data for this project can be found [here](https://drive.google.com/
 
 The project consists of 4 files:
 > `buildup.py` - for preprocessing the data and splitting it to train, test, and validation partitions. The output of it for our data can be found [here](https://drive.google.com/file/d/1xXfunmTc3USouiQ1MdGVLN6XDUCeNtrz/view?usp=sharing).\
-> `training.py` - for training the model(s).\
+> `training.py` - for training the model(s). The output `models` directory can be found [here](https://drive.google.com/drive/folders/1inZlzgv0SbY93MtntxJiO9PTmWBQUPeZ?usp=sharing)\
 > `classifying.py` - to produce predictions for an unlabeled test set.\
 > `experimenting.py` - to visualize the system's performance on a labeled set, using various metrics and plots.
 
