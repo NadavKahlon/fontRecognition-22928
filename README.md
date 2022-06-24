@@ -1,5 +1,5 @@
 # fontRecognition-22928
-A program for recognizing fonts in text appearing in everyday photos - my final project in a Computer Vision course I took in Fall 2022 in The Open University of Israel.
+A program for recognizing fonts in text appearing in everyday photos - my final project in a Computer Vision course I took in Fall 2022 at The Open University of Israel.
 
 The training data for this project can be found [here](https://drive.google.com/drive/folders/1jzHYpTwywUYA53nMGHVROSuVO14hEueq?usp=sharing). Since I've opened a github account a few months after the semester was already over, I couldn't find the unlabeled test set to upload here.
 
